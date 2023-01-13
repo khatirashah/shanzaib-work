@@ -1,0 +1,18 @@
+/* Code for Mobile responsiveness */
+@media screen and (max-width: 576px){
+    .body{
+        background-size: 100vh;
+    }
+    .hTag{
+        margin-top: 200px;
+        font-size: 15vw;
+    }
+    .hTag .logo::before{
+        padding-left: 70px;
+        background-size: 24vw auto;
+    }
+    .imagePage img{
+        height: 80vh;
+        width: 100vw;
+    }
+}
