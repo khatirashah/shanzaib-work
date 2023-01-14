@@ -3,16 +3,16 @@
     .body{
         background-size: 100vh;
     }
-    .hTag{
+    .h1Tag{
         margin-top: 200px;
         font-size: 15vw;
     }
-    .hTag .logo::before{
+    .h1Tag .logo::before{
         padding-left: 70px;
         background-size: 24vw auto;
     }
     .imagePage img{
-        height: 80vh;
+        height: 98vh;
         width: 100vw;
     }
 }
